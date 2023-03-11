@@ -1,4 +1,4 @@
-p align="center">
+<p align="center">
 <img src="https://i.imgur.com/pU5A58S.png" height="40%" width="70%"alt="Microsoft Active Directory Logo"/>
 </p>
 
