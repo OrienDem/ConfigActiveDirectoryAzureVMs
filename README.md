@@ -55,3 +55,24 @@ Step 1 create two VM instances, Client (Client1) and Domain Controller (DC-1). C
 Step 2 Using Remote Desktop login to DC-1 and enable ICMP echo request
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/BbFnQEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 3 In DC1 open server manager and click  add roles and features. select active directory domain  services.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/PRDco93.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p> Step 4 Setup name for domain controller. For this lab will  dc will be called mydomain.com
+</p>
+<br />
+
+<p>
+
+
+
+
