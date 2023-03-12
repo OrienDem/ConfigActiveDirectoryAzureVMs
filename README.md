@@ -104,6 +104,12 @@ Step 6 to better mirror standand use practices, create administrative user Jane.
 </p>
 
 <p>
+Step 7 part 2 change to DC-1 private DNS server ip
+</p>
+<br />
+
+
+<p>
 <img src="https://i.imgur.com/fIrlkpe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
@@ -112,10 +118,6 @@ Step 7 in azure navigate to VM Client-1 NIC
 </p>
 <br />
 
-<p>
-Step 7 part 2 change to DC-1 private DNS server ip
-</p>
-<br />
 
 <p>
 
