@@ -160,7 +160,28 @@ Step 11 log back into client one with jane admin login info
 
 <p>
  
- 
+ <p>
+<img src="https://i.imgur.com/dLyiURy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 12 add domain users to remote access list
+</p>
+<br />
 
+<p>
+<img src="https://i.imgur.com/F7s4CIB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>Step 13 using a script in Powershell add new users with no admin priveleges
+</p>
+<br />
 
+<p>
 
+<p>
+<img src="https://i.imgur.com/iCeZ5qj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+Step14 Verify new users were added successfully by logging in with one of the random generated usernames.
+</p>
+<br />
