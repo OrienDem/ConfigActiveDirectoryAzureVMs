@@ -124,7 +124,23 @@ Step 7 in azure navigate to VM Client-1 NIC
 <p>
 
 
+<p>
+<img src="https://i.imgur.com/oKl6bHj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 8 Restart the VM from within Azure
+</p>
+<br />
 
+<p>
+<img src="https://i.imgur.com/aQzZbfX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 9 Verify that the DNS is now DC-1s private ip
+</p>
+<br />
+
+<p>
 
 
 
