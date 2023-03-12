@@ -115,10 +115,7 @@ Step 7 in azure navigate to VM Client-1 NIC
 <img src="https://i.imgur.com/fIrlkpe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<p>
-Step 7 in azure navigate to VM Client-1 NIC
-</p>
-<br />
+
 
 <p>
  Change to DC-1 private DNS server ip
