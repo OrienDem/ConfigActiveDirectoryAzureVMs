@@ -104,9 +104,11 @@ Step 6 to better mirror standand use practices, create administrative user Jane.
 </p>
 
 <p>
-Step 7 part 2 change to DC-1 private DNS server ip
+Step 7 in azure navigate to VM Client-1 NIC
 </p>
 <br />
+
+
 
 
 <p>
@@ -118,7 +120,10 @@ Step 7 in azure navigate to VM Client-1 NIC
 </p>
 <br />
 
-
+<p>
+ Change to DC-1 private DNS server ip
+</p>
+<br />
 <p>
 
 
