@@ -34,3 +34,24 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 <h3 align="center">Setting Up Resources in Azure</h3>
 <br />
+
+<p>
+<img src="https://i.imgur.com/aNstDo2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/JQFWaFp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+Step 1 create two VM instances, Client (Client1) and Domain Controller (DC-1). Client 1 is a windows 10 VM and DC-1 uses windows server.  In Azure Navigate to NIC of DC1 and set to static
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
