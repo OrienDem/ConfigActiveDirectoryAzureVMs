@@ -91,6 +91,36 @@ Step 5 Create 2 orginazational units under mydomain.com in  server manager. one 
 
 <p>
 
+<p>
+<img src="https://i.imgur.com/KQ5pe9J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 6 to better mirror standand use practices, create administrative user Jane. logout and back in with this newly created account
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/JiAvYjM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/fIrlkpe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+Step 7 in azure navigate to VM Client-1 NIC
+</p>
+<br />
+
+<p>
+Step 7 part 2 change to DC-1 private DNS server ip
+</p>
+<br />
+
+<p>
+
+
+
 
 
 
