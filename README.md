@@ -182,6 +182,6 @@ Step 12 add domain users to remote access list
 </p>
 <p>
 
-Step14 Verify new users were added successfully by logging in with one of the random generated usernames.
+Step 14 Verify new users were added successfully by logging in with one of the random generated usernames.
 </p>
 <br />
